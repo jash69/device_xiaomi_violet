@@ -7,7 +7,7 @@
   },
   {
     "remote":"github",
-    "repository": "NusantaraROM-Devices/android_vendor_xiaomi_violet",
+    "repository": "NusantaraROM-Devices/vendor_xiaomi_violet",
     "target_path": "vendor/xiaomi/violet",
     "branch":"11"
   },
