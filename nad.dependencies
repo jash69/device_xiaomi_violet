@@ -10,5 +10,11 @@
     "repository": "NusantarROM-Devices/android_vendor_xiaomi_violet",
     "target_path": "vendor/xiaomi/violet",
     "branch":"11"
+  },
+  {
+    "remote":"github",
+    "repository": "brucetech627/android_packages_apps_GCamGOPrebuilt",
+    "target_path": "packages/apps/GCamGOPrebuilt",
+    "branch":"11"
   }
 ]
