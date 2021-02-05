@@ -11,6 +11,7 @@ $(call inherit-product, device/xiaomi/violet/device.mk)
 $(call inherit-product, vendor/nusantara/config/common.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
 IS_PHONE := true
+TARGET_GAPPS_ARCH := arm64
 TARGET_INCLUDE_PIXEL_CHARGER := true
 NAD_BUILD_TYPE := OFFICIAL
 
