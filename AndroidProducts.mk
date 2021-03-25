@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nad_violet.mk
+    $(LOCAL_DIR)/lineage_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    nad_violet-userdebug \
-    nad_violet-user \
-	nad_violet-eng
+    lineage_violet-userdebug \
+    lineage_violet-user \
+	lineage_violet-eng
