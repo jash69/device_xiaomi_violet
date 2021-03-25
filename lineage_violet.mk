@@ -8,7 +8,7 @@
 $(call inherit-product, device/xiaomi/violet/device.mk)
 
 # Inherit some common CrDroid stuff.
-$(call inherit-product, vendor/crdroid/config/common_full_phone.mk)
+$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
 IS_PHONE := true
 TARGET_GAPPS_ARCH := arm64
